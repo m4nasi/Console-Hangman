@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Hangman-part2\Hangman-part2\bin\Debug\Hangman-part2.exe.config
+C:\Users\Asus\source\repos\Hangman-part2\Hangman-part2\bin\Debug\Hangman-part2.exe
+C:\Users\Asus\source\repos\Hangman-part2\Hangman-part2\bin\Debug\Hangman-part2.pdb
+C:\Users\Asus\source\repos\Hangman-part2\Hangman-part2\obj\Debug\Hangman-part2.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Hangman-part2\Hangman-part2\obj\Debug\Hangman-part2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Hangman-part2\Hangman-part2\obj\Debug\Hangman-part2.exe
+C:\Users\Asus\source\repos\Hangman-part2\Hangman-part2\obj\Debug\Hangman-part2.pdb
+C:\Users\Manas\source\repos\Hangman-part2\Hangman-part2\bin\Debug\Hangman-part2.exe.config
+C:\Users\Manas\source\repos\Hangman-part2\Hangman-part2\bin\Debug\Hangman-part2.exe
+C:\Users\Manas\source\repos\Hangman-part2\Hangman-part2\bin\Debug\Hangman-part2.pdb
+C:\Users\Manas\source\repos\Hangman-part2\Hangman-part2\obj\Debug\Hangman-part2.csprojAssemblyReference.cache
+C:\Users\Manas\source\repos\Hangman-part2\Hangman-part2\obj\Debug\Hangman-part2.csproj.CoreCompileInputs.cache
+C:\Users\Manas\source\repos\Hangman-part2\Hangman-part2\obj\Debug\Hangman-part2.exe
+C:\Users\Manas\source\repos\Hangman-part2\Hangman-part2\obj\Debug\Hangman-part2.pdb
